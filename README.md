@@ -5,6 +5,11 @@ cd generator-ig
 sh gn.sh
 ```
 
+# Tested in
+* `Ubuntu`
+* `Kali Linux`
+* `Termux`
+
 # How to use
 <br>
 <p align="center">
